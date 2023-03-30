@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(212,224,239,255);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+.box{
+    width: 25rem;
+    height: 35rem;
+    background-color: white;
+    border-radius: 1.5rem;
+    text-shadow: 25px solid black;
+}
+
+.qrCode {
+    width: 23rem;
+    height: 23rem;
+    margin: 10px;
+    border-radius: 1.5rem;
+}
+
+.firstText {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    width: 300px;
+    margin: auto;
+}
+
+.secondText {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: white;
+    color: grey;
+    width: 300px;
+    margin: auto;
+}
