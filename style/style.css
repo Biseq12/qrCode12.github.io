@@ -22,7 +22,7 @@
 
 .qrCode {
     width: 23rem;
-    height: 23rem;
+    height: 22rem;
     margin: 10px;
     border-radius: 1.5rem;
 }
@@ -30,14 +30,16 @@
 .firstText {
     font-family: 'Ubuntu', sans-serif;
     background-color: white;
-    width: 300px;
+    width: 20rem;
     margin: auto;
+    margin-top: 1rem;
 }
 
 .secondText {
     font-family: 'Ubuntu', sans-serif;
     background-color: white;
     color: grey;
-    width: 300px;
+    width: 17rem;
     margin: auto;
+    margin-top: 1rem;
 }
